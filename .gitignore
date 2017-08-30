@@ -1,0 +1,10 @@
+platforms/
+hooks/
+node_modules/
+.idea/
+.DS_Store
+final/app/App_Resources
+starter/app/App_Resources
+*.md
+geolocation_gmap
+/app
